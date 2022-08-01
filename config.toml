@@ -1,4 +1,5 @@
 # This is a "one page"-website, so we do not need these kinds of pages...
+baseURL = 'https://beesandgreens.com/'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 languageCode = "en-us"
 title = "Bees and Greens"

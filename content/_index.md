@@ -1,5 +1,5 @@
 ---
-header_image: "images/cover-image.jpg"
-header_headline: "Bees and Greens"
+header_image: "images/microgreens.jpg"
+header_headline: "Bees & Greens"
 header_subheadline: "honey and microgreens - Bainbridge Island, WA"
 ---

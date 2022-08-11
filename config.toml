@@ -2,7 +2,7 @@
 baseURL = 'https://beesandgreens.com/'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 languageCode = "en-us"
-title = "Bees and Greens"
+title = "Bees & Greens"
 theme = "hugo-scroll"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -19,7 +19,7 @@ theme = "hugo-scroll"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/jar.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.

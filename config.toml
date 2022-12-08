@@ -4,6 +4,8 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 languageCode = "en-us"
 title = "Bees & Greens"
 theme = "hugo-scroll"
+[markup.goldmark.renderer]
+unsafe = true
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.

@@ -4,9 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-We offer delivery of fresh microgreens to the Bainbridge Island and Poulsbo areas. You can place orders [here](https://bees-and-greens.square.site/).
-
-We also sell microgreens on [KitsapFresh](https://kitsapfresh.org/) as well.
+Our microgreens are available for sale in the market at [Bay Hay and Feed](https://bayhayandfeed.com/) in Rolling Bay. We also offer delivery of fresh microgreens to the Bainbridge Island and Poulsbo areas. [Reach out to us directly]({{< ref "/#contact" >}} "Reach out to us directly") if you're interested!
 
 ![Dumplings](images/dumplings.jpg)
 

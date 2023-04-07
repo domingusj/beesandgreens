@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-Our microgreens are available for sale in the market at [Bay Hay and Feed](https://bayhayandfeed.com/) in Rolling Bay. We also offer delivery of fresh microgreens to the Bainbridge Island and Poulsbo areas. [Reach out to us directly]({{< ref "/#contact" >}} "Reach out to us directly") if you're interested!
+Our microgreens are available for sale in the market at [Bay Hay and Feed](https://bayhayandfeed.com/) in Rolling Bay.
 
 ![Dumplings](images/dumplings.jpg)
 

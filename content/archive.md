@@ -18,6 +18,8 @@ Here you will find copies of all our past newsletters.
 
 [September](sept2023)
 
+[November](nov2023)
+
 ### 2022
 
 [December](dec2022)

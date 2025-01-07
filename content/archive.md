@@ -6,6 +6,10 @@ draft: false
 ---
 Here you will find copies of all our past newsletters.
 
+### 2025
+
+[January](jan2025)
+
 ### 2024
 
 [February](feb2024)

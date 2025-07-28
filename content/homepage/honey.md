@@ -6,7 +6,7 @@ header_menu: true
 
 ![Honey-Jars](images/honey-jars.jpg)
 
-We sell fresh, local honey from our beehives on Bainbridge Island, WA.
+We sell fresh, local honey from our beehives in Kingston, WA.
 
 [Contact Us]({{< ref "/#contact" >}} "Contact Us") for prices and availability.
 

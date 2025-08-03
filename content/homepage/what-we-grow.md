@@ -8,11 +8,11 @@ header_menu: true
 
 #### Honey
 
-Justin grew up keeping bees and was a beekeeping extensionist in the Peace Corps in Paraguay (where we met!). We now keep hives on our farm in Kingston, WA.
+Justin was a Beekeeping Extension volunteer in the Peace Corps in Paraguay (where we met!). We now keep hives on our farm in Kingston, WA.
 
 ![Honey-Jars](images/hexagon-honey.jpg)
 
-Our bees forage on a wide variety of Pacific Northwest plants including maples, blackberries, fireweed, and wildflowers in the area, and our honey reflects this - it may be a slightly different color and flavor profile from year to year based on what was available for the bees to forage. 
+Our bees forage on a wide variety of Pacific Northwest plants including maples, blackberries, fireweed, and wildflowers in the area, and our honey reflects this - it may be a slightly different color and flavor profile from year to year based on what was available for the bees to forage.
 
 ![Honey-Frame](images/honey-frame.jpg)
 

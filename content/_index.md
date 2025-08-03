@@ -1,5 +1,5 @@
 ---
-header_image: "images/microgreens.jpg"
+header_image: "images/barnswallow.jpg"
 header_headline: "Bees & Greens"
-header_subheadline: "honey and microgreens - Kingston, WA"
+header_subheadline: "Small Farm in Kitsap County, WA"
 ---

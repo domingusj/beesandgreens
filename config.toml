@@ -26,13 +26,13 @@ unsafe = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Bees and Greens - Honey and Microgreens"
+    title = "Bees and Greens - Kingston WA Small Farm"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "bees, beekeeping, honey, microgreens"
+        keywords = "bees, beekeeping, honey, microgreens, storage crop, small farm"
 
 

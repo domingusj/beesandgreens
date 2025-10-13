@@ -14,6 +14,8 @@ Here you will find copies of all our past newsletters.
 
 [May](may2025)
 
+[October](oct2025)
+
 ### 2024
 
 [February](feb2024)

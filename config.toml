@@ -1,7 +1,7 @@
 # This is a "one page"-website, so we do not need these kinds of pages...
 baseURL = 'https://beesandgreens.com/'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
-languageCode = "en-us"
+locale = "en-us"
 title = "Bees & Greens"
 theme = "hugo-scroll"
 [markup.goldmark.renderer]

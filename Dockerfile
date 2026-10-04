@@ -1,4 +1,7 @@
-FROM floryn90/hugo:ext-onbuild AS hugo
+FROM ghcr.io/gohugoio/hugo AS hugo
+USER root
+COPY . .
+RUN hugo build --minify --gc
 
 FROM nginx
-COPY --from=hugo /target /usr/share/nginx/html
+COPY --from=hugo /project/public /usr/share/nginx/html

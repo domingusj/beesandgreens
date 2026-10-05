@@ -2,25 +2,38 @@
      Its content will appear before the closing </head>-tag -->
 
 <style>
+     /* Palette: bees & greens
+        honey gold  #E8A317   light gold  #F4C95D   dark gold #C98A0B
+        leaf green  #2F5530   hover green #3F6B3A   footer    #1A2E1D
+        cream       #F5EBD3   charcoal    #2E3A2F */
+
      :root {
-          --cover-text-color: #ffffff;
+          --cover-text-color: #F5EBD3;
           --cover-title-text-shadow: none;
+
+          /* Light sections */
+          --section-light-bg-color: #F5EBD3;
+          --section-light-text-color: #2E3A2F;
+
+          /* Dark (alternating) sections */
+          --section-dark-bg-color: #2F5530;
+          --section-dark-text-color: #030200;
      }
 
      /* Title and subtitle on the header image */
      .blog-title,
      .blog-description {
-          color: #ffffff !important;
+          color: #F5EBD3 !important;
           text-shadow: none !important;
      }
 
-     /* Body text and links */
-     body {
-          color: #2E3A2F !important;
-     }
-
+     /* Link hover: dark gold on cream, light gold on green */
      a:hover {
           color: #C98A0B !important;
+     }
+
+     .post-holder.odd a:hover {
+          color: #F4C95D !important;
      }
 
      /* Header buttons on startpage */
@@ -30,33 +43,23 @@
      }
 
      a.btn:hover {
-          color: #ffffff !important;
+          color: #F5EBD3 !important;
           background-color: #3F6B3A !important;
      }
 
      /* Scroll menu on startpage */
      a.fn-item.active {
-          color: #ffaa00 !important;
+          color: #E8A317 !important;
      }
 
      a.fn-item:hover {
-          color: #ffcf54 !important;
-     }
-
-     /* Content / sections */
-     .post-holder {
-          background: #F7F3E8 !important;
-     }
-
-     .post-holder.odd {
-          background: #2F5530 !important;
-          color: #ffffff !important;
+          color: #F4C95D !important;
      }
 
      /* Footer */
      .site-footer {
           color: #D8E2D0 !important;
-          background-color: #234026 !important;
+          background-color: #2F5530 !important;
      }
 </style>
 

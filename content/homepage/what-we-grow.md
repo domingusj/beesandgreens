@@ -34,4 +34,7 @@ We grow corn (grinding corn and popcorn), sweet potatoes, potatoes, garlic, wint
 
 ![glass gem corn](images/glass-gem.jpg)
 
+#### Eggs
+
+Our chickens are live on pasture in mobile chicken tractors and are moved around the farm to fresh grass. They get organic feed and plenty of random weeds and bugs from the garden. We want the chickens to live their best happy and healthy chicken lives.
 

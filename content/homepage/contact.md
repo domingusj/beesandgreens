@@ -4,6 +4,6 @@ weight: 4
 header_menu: true
 ---
 
-email: [contact@beesandgreens.com](mailto:contact@beesandgreens.com)
+{{< icon name="envelope" >}}: [contact@beesandgreens.com](mailto:contact@beesandgreens.com)
 
-instagram: [@bees_and_greens](https://www.instagram.com/bees_and_greens/)
+{{< icon name="instagram" brand=true >}}: [@bees_and_greens](https://www.instagram.com/bees_and_greens/)

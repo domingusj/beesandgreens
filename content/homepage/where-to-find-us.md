@@ -15,4 +15,6 @@ You can find our produce seasonally at these locations:
 
 - [Briny Bagels](https://brinybagels.com/)
 
+- [Pickering Pastures Pop-Up Farmstand](https://eatlocalfirst.org/listing/indianola/pickering-pastures/)
+
 Thank you for supporting your local farmers, wherever you live.
